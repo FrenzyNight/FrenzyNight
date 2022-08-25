@@ -10,13 +10,13 @@
 </br>
 </br>
 
-<h3 align="center"><b>🔧 Cowork tools🔧</b></h3>
+<h3 align="center"><b>📚 Cowork tools 📚</b></h3>
 <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </br>
 </br>
 
-<h3 align="center"><b>🔧 Contact🔧</b></h3>
+<h3 align="center"><b>📧 Contact 📧</b></h3>
 
 <img src="https://img.shields.io/badge/inki3003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:inki3003@gmail.com"/>
 
