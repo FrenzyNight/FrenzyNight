@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FrenzyNight&fontSize=90" />
 
@@ -21,10 +23,18 @@
 <img src="https://img.shields.io/badge/inki3003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:inki3003@gmail.com"/>
 
 </br>
-
-<h3 align="center"><b>📧 Project 📧</b></h3>
 </br>
-용사관리사 --
+<h3 align="center"><b>📰 Project 📰</b></h3>
+
+<h4 align="center"><b>팀 프로젝트</b></h4>
+<a href="https://github.com/FrenzyNight/Heros-Manager">용사관리사</a> <br>
+<a href="https://github.com/FrenzyNight/JangseungVillage">장승빌리지</a> <br>
+<a href="https://github.com/FrenzyNight/CapstoneFakeNewsDetector/tree/master">FakeNewsChallenge</a> <br>
+</br>
+<h4 align="center"><b>개인 프로젝트</b></h4>
+<a href="https://github.com/FrenzyNight/Defence">디펜스</a> <br>
+<a href="https://github.com/FrenzyNight/LeftRight">LeftRight</a> <br>
+<a href="https://github.com/FrenzyNight/Clicker">Clicker</a> <br>
 </br>
 
 ![FrenzyNight's github stats](https://github-readme-stats.vercel.app/api?username=FrenzyNight&show_icons=true)
