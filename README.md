@@ -22,7 +22,7 @@
 
 </br>
 
-<h3 align="center"><b>📧 Contact 📧</b></h3>
+<h3 align="center"><b>📧 Project 📧</b></h3>
 </br>
 용사관리사 --
 </br>
