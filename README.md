@@ -20,7 +20,11 @@
 
 <img src="https://img.shields.io/badge/inki3003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:inki3003@gmail.com"/>
 
+</br>
 
+<h3 align="center"><b>📧 Contact 📧</b></h3>
+</br>
+용사관리사 --
 </br>
 
 ![FrenzyNight's github stats](https://github-readme-stats.vercel.app/api?username=FrenzyNight&show_icons=true)
