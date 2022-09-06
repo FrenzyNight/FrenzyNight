@@ -31,9 +31,9 @@
 <h3 align="center"><b>📰 Project 📰</b></h3>
 
 <h4 align="center"><b>팀 프로젝트</b></h4>
-<a href="https://github.com/FrenzyNight/Heros-Manager">용사관리사</a> <br>
-<a href="https://github.com/FrenzyNight/JangseungVillage">장승빌리지</a> <br>
-<a href="https://github.com/FrenzyNight/CapstoneFakeNewsDetector/tree/master">FakeNewsChallenge</a> <br>
+C2BG 대상 : <a href="https://github.com/FrenzyNight/Heros-Manager">용사관리사</a> <br>
+제3회 충남게임잼 : <a href="https://github.com/FrenzyNight/JangseungVillage">장승빌리지</a> <br>
+Sejong Univ Capstone : <a href="https://github.com/FrenzyNight/CapstoneFakeNewsDetector/tree/master">FakeNewsChallenge</a> <br>
 </br>
 <h4 align="center"><b>개인 프로젝트</b></h4>
 <a href="https://github.com/FrenzyNight/Defence">디펜스</a> <br>
